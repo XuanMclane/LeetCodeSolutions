@@ -2,13 +2,13 @@
 
 namespace LeetCodeSolutions
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            LengthOfLongestSubstring l = new LengthOfLongestSubstring();
-            int output = l.solution("pwwkew");
-            Console.WriteLine(output);
-        }
+      LengthOfLongestSubstring l = new LengthOfLongestSubstring();
+      int output = l.Solution("pwwkew");
+      Console.WriteLine(output);
     }
+  }
 }

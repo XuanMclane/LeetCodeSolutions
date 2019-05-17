@@ -9,3 +9,14 @@
 /Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.AssemblyInfo.cs
 /Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.dll
 /Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.pdb
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\bin\Debug\netcoreapp2.2\LeetCodeSolutions.deps.json
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\bin\Debug\netcoreapp2.2\LeetCodeSolutions.runtimeconfig.json
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\bin\Debug\netcoreapp2.2\LeetCodeSolutions.runtimeconfig.dev.json
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\bin\Debug\netcoreapp2.2\LeetCodeSolutions.dll
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\bin\Debug\netcoreapp2.2\LeetCodeSolutions.pdb
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\obj\Debug\netcoreapp2.2\LeetCodeSolutions.csprojAssemblyReference.cache
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\obj\Debug\netcoreapp2.2\LeetCodeSolutions.csproj.CoreCompileInputs.cache
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\obj\Debug\netcoreapp2.2\LeetCodeSolutions.AssemblyInfoInputs.cache
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\obj\Debug\netcoreapp2.2\LeetCodeSolutions.AssemblyInfo.cs
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\obj\Debug\netcoreapp2.2\LeetCodeSolutions.dll
+C:\Users\mzhang\Documents\GitHub\LeetCodeSolutions\obj\Debug\netcoreapp2.2\LeetCodeSolutions.pdb
