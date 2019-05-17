@@ -6,7 +6,9 @@ namespace LeetCodeSolutions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LengthOfLongestSubstring l = new LengthOfLongestSubstring();
+            int output = l.solution("pwwkew");
+            Console.WriteLine(output);
         }
     }
 }
