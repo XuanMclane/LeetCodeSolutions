@@ -1,0 +1,11 @@
+/Users/Xuan/Documents/Project/LeetCodeSolutions/bin/Debug/netcoreapp2.2/LeetCodeSolutions.deps.json
+/Users/Xuan/Documents/Project/LeetCodeSolutions/bin/Debug/netcoreapp2.2/LeetCodeSolutions.runtimeconfig.json
+/Users/Xuan/Documents/Project/LeetCodeSolutions/bin/Debug/netcoreapp2.2/LeetCodeSolutions.runtimeconfig.dev.json
+/Users/Xuan/Documents/Project/LeetCodeSolutions/bin/Debug/netcoreapp2.2/LeetCodeSolutions.dll
+/Users/Xuan/Documents/Project/LeetCodeSolutions/bin/Debug/netcoreapp2.2/LeetCodeSolutions.pdb
+/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.csprojAssemblyReference.cache
+/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.csproj.CoreCompileInputs.cache
+/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.AssemblyInfoInputs.cache
+/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.AssemblyInfo.cs
+/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.dll
+/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/Debug/netcoreapp2.2/LeetCodeSolutions.pdb
