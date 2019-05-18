@@ -536,12 +536,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "mJnCMoBfWL0lxxlBFJ/8cZKTfPpI82TekZkUqvSCBtunUaaqr2LVeWl1zQYdanAdk4Ddf1HCwb8+DNYaNFBk1w==",
+      "sha512": "odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -687,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mzhang\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/Xuan/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mzhang\\Documents\\GitHub\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
+      "projectUniqueName": "/Users/Xuan/Documents/Project/LeetCodeSolutions/LeetCodeSolutions.csproj",
       "projectName": "LeetCodeSolutions",
-      "projectPath": "c:\\Users\\mzhang\\Documents\\GitHub\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
-      "packagesPath": "C:\\Users\\mzhang\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mzhang\\Documents\\GitHub\\LeetCodeSolutions\\obj\\",
+      "projectPath": "/Users/Xuan/Documents/Project/LeetCodeSolutions/LeetCodeSolutions.csproj",
+      "packagesPath": "/Users/Xuan/.nuget/packages/",
+      "outputPath": "/Users/Xuan/Documents/Project/LeetCodeSolutions/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mzhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Xuan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
