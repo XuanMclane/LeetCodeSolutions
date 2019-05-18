@@ -7,7 +7,7 @@ namespace LeetCodeSolutions
     static void Main(string[] args)
     {
       LengthOfLongestSubstring l = new LengthOfLongestSubstring();
-      int output = l.Solution("pwwkew");
+      int output = l.Solution("pwwkewdddefe");
       Console.WriteLine(output);
     }
   }
