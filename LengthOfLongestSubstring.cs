@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 
 //URL:https://leetcode.com/problems/longest-substring-without-repeating-characters/
-public class LengthOfLongestSubstring 
+public class LengthOfLongestSubstring
 {
   public int Solution(string s)
   {

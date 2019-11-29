@@ -6,9 +6,8 @@ namespace LeetCodeSolutions
   {
     static void Main(string[] args)
     {
-      LengthOfLongestSubstring l = new LengthOfLongestSubstring();
-      int output = l.Solution("pwwkdgegegegaadgegadaageafdsvadsvewdddefe");
-      Console.WriteLine(output);
+      SelfDividingNumbers s = new SelfDividingNumbers();
+      Console.WriteLine(String.Join(", ", s.Solution(1, 22)));
     }
   }
 }
